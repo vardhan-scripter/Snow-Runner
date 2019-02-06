@@ -1,0 +1,28 @@
+#div{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+#output {
+    color: red;
+    font-size: 60px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+#heading {
+    color: red;
+    font-size: 60px;
+}
+#ScoreCard {
+    color: seagreen;
+    position: absolute;
+    top: 0%;
+    right: 10%;
+}
+#button{
+    position: absolute;
+    color: seagreen;
+    bottom: 20%;
+    left: 30%;
+}
